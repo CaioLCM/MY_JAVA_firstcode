@@ -7,7 +7,7 @@ public class Main {
                 ***********************************
                 Dados iniciais do cliente
                 
-                Nome:           Caio Lene Campos Magalhães
+                Nome:           Caio Lene
                 Tipo conta:     Corrente
                 Saldo inicial:  R$2500,00
                 ***********************************
